@@ -1,0 +1,25 @@
+    1  cd Git
+    2  Git config --global user.name "Maryna Pylypenko" 
+    3  Git config --global user.name "Maryna Pylypenko" 
+    4  Git config --global user.email Siroshtanmarina@gmail.com
+    5  kuhkuh
+    6  Git clone https://github.com/MarinaPylypenko/HW_10.git
+    7  Git clone https://github.com/MarinaPylypenko/HW_10.git
+    8  cd HW_10/
+    9  touch text_ignore.txt
+   10  git status
+   11  git add
+   12  commit 
+   13  git commit 
+   14  git add
+   15  git commit 
+   16  git pull
+   17  git push
+   18  checkout develop
+   19  git add
+   20  git commit 
+   21  git add
+   22  git commit 
+   23  checkout main
+   24  git checkout main
+   25  history > command_list.csv
